@@ -16,7 +16,7 @@ Inside every folder I created several test cases, which check HTTP response corr
 
 ## Disify HTTP Api tests collection
 The tests collection, which I created within the project is available at the following link:<br/><br/>
-[![Run in Postman](https://run.pstmn.io/button.svg)]https://www.postman.com/justynka551/workspace/purgomalum/collection/26103388-211a84bf-e757-4b16-b3a9-eb967d3ee77a?action=share&creator=26103388
+[![Run in Postman](https://run.pstmn.io/button.svg)https://www.postman.com/justynka551/workspace/purgomalum/collection/26103388-211a84bf-e757-4b16-b3a9-eb967d3ee77a?action=share&creator=26103388
 
 
 
